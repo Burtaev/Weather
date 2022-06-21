@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Weather</string>
+    <string name="app_name_ru">Погода</string>
+    <string name="feels_like">Ощущается как</string>
+    <string name="title_save_addresses">Сохраненные места</string>
+    <string name="title_search">Поиск места</string>
 </resources>
